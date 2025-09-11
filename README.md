@@ -15,10 +15,12 @@ In this session, you’ll learn:
 
 Join us to learn about modern methodologies of multi-account activity monitoring from industry leaders. Whether you're an AppSec team leader, cloud security professional, or solution architect, you'll gain practical knowledge for enhancing your organization's cloud security posture.
 
-[VIDEO TBD]
+## Video (click to watch)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TBD/0.jpg)](https://www.youtube.com/watch?v=TBD)
 
 ### Resources
 
+* [Slides](./modernizing-cloud-security-with-event-driven-architectures.pdf?raw=true)
 * [Enhancing multi-account activity monitoring with event-driven architectures](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/)
 * [Detect Adversary Behavior in Milliseconds with CrowdStrike and Amazon EventBridge](https://aws.amazon.com/blogs/architecture/detect-adversary-behavior-in-seconds-with-crowdstrike-and-amazon-eventbridge)
 * [CloudTrail events in EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-service-event-cloudtrail.html)
