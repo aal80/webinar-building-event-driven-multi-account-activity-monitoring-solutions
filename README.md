@@ -16,7 +16,7 @@ In this session, you’ll learn:
 Join us to learn about modern methodologies of multi-account activity monitoring from industry leaders. Whether you're an AppSec team leader, cloud security professional, or solution architect, you'll gain practical knowledge for enhancing your organization's cloud security posture.
 
 ## Video (click to watch)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TBD/0.jpg)](https://www.youtube.com/watch?v=TBD)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KlM2M_u0v14/0.jpg)](https://www.youtube.com/watch?v=KlM2M_u0v14)
 
 ### Resources
 
